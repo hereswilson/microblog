@@ -11,3 +11,5 @@ wheels/
 #env
 .flashenv
 .env
+
+.log
